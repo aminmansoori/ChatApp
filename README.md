@@ -2,7 +2,12 @@
 This application has just one screen that is supposed to be tested
 
 ### Installing
-download it from the link and run it on every devices you wish
+
+download it from the link, to initialize the requiered packages
+
+```
+npm install
+```
 
 to run on android devices
 
