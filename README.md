@@ -1,12 +1,15 @@
 # ChatApp
-This application has just one screen that is supposed to be tested
+This application is a chat sample app in which you will see some default messages between two unknown users,
+you can type new messages to be shown at the end of the message list and scroll among them simply
 
 ### Installing
 
-download it from the link, to initialize the requiered packages
+download the App,
+
+to initialize the requiered packages
 
 ```
-npm install
+run `npm install` or `yarn install`
 ```
 
 to run on android devices
